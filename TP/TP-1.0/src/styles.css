@@ -151,6 +151,7 @@ body { margin: 0; }
   background-color: var(--negro);
   color: var(--blanco);
 
+  
 }
 
 html, body { height: 100%; }
