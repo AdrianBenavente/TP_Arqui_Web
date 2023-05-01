@@ -9,6 +9,7 @@ module.exports = function () {
       { id: 6,  name: 'Julia',  lastname: 'Navarro',  email: "lisa.brown@yahoo.com",          age: 27 ,  district:'Pueblo Libre'           ,profession: 'Niñera'             }
     ]
   }
+  
   return data
 }
 
